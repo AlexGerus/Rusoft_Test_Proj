@@ -1,0 +1,8 @@
+com\rusoft\task\repository\ClientRepository.class
+com\rusoft\task\service\interfaces\ClientService.class
+com\rusoft\task\module\client\Client.class
+com\rusoft\task\config\SwaggerConfig.class
+com\rusoft\task\service\impl\ClientServiceImpl.class
+com\rusoft\task\module\car\Car.class
+com\rusoft\task\Main.class
+com\rusoft\task\controllers\ClientController.class

@@ -1,0 +1,4 @@
+com\rusoft\task\controllers\ClientControllerTest.class
+com\rusoft\task\service\impl\ClientServiceImplTest.class
+com\rusoft\task\service\impl\ClientServiceImplTest$ClientServiceImplTestContextConfiguration.class
+com\rusoft\task\repository\ClientRepositoryTest.class
